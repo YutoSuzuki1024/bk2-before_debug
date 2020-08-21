@@ -1,0 +1,3 @@
+alert("destroyアクション");
+
+$("#favorites_buttons_<%= @book.id %>").html("<%= j(render "books/favorite", book: @book) %>");

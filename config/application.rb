@@ -17,3 +17,4 @@ module Bookers2Debug
     # the framework and any gems in your application.
   end
 end
+
